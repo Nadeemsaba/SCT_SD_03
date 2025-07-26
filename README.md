@@ -22,6 +22,8 @@ This project delivers a playable 9x9 Sudoku puzzle in a web-based format using c
 - 🔹 **Reset** the puzzle with a click
 - 🔹 **Solve** button for instant solution
 - 🔹 **Live Timer** to track puzzle-solving duration
+- 🔹 **3 Difficulty levels** Easy, Medium , Hard
+  
 
 ---
 
