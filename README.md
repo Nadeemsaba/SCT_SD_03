@@ -45,13 +45,13 @@ SCT_SD_03/
    git clone https://github.com/Nadeemsaba/SCT_SD_03.git
    ```
 2. Open `task3.html` in your web browser.
-3. Start solving and enjoy the dark/light mode and timer features.
+3. Start solving and enjoy the features.
 
 ---
 
 ## 🎓 Internship Details
 
-This project was developed as part of the **SkillCraft Technology Software Development Internship**, Task 3. The focus was on applying front-end development skills and enhancing the user interface with advanced features time tracking.
+This project was developed as part of the **SkillCraft Technology Software Development Internship**, Task 3. The focus was on applying front-end development skills and enhancing the user interface with advanced features like time tracking.
 
 ---
 
@@ -61,17 +61,18 @@ This project is licensed under the **MIT License**. Feel free to fork and custom
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshot
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/b254fea5-e2db-406a-8e01-dce01ff0cb9f" />
 
-You can add gameplay screenshots under a `screenshots/` folder and reference them here for better visual understanding.
+
 
 ---
 
 ## 👨‍💻 Author
 
 **Nadeem Saba**  
-_*🌱 Learning every day, building with intent, and testing with purpose.*_
-GitHub: [@Nadeemsaba](https://github.com/Nadeemsaba)
+_*🌱 Learning every day, building with intent, and testing with purpose.*_</br>
+GitHub: [@Nadeemsaba](https://github.com/Nadeemsaba)</br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadeemsaba/)
 
 
