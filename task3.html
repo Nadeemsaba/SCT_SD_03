@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sudoku 🎯</title>
+  <link rel="stylesheet" href="task3.css">
+</head>
+<body>
+  <h1>🎯 Sudoku 🎯</h1>
+  <div id="game-info">
+    <span id="timer">⏱ 00:00</span>
+  </div>
+
+  <div id="sudoku-container" class="grid-container"></div>
+
+  <div class="action-panel">
+    <select id="level">
+      <option value="easy">Easy</option>
+      <option value="medium">Medium</option>
+      <option value="hard">Hard</option>
+    </select>
+    <button id="btn-generate">Generate</button>
+    <button id="btn-solve">Get Answer</button>
+    <button id="btn-reset">Reset</button>
+    <button id="btn-verify">Check</button>
+  </div>
+
+  <script src="task3.js"></script>
+</body>
+</html>
