@@ -11,7 +11,7 @@ Welcome to **Sudoku**, a simple yet interactive Sudoku puzzle game developed as 
 
 ## 📄 Project Overview
 
-This project delivers a playable 9x9 Sudoku puzzle in a web-based format using core web technologies: **HTML**, **CSS**, and **JavaScript**. It emphasizes usability, theme flexibility, and time tracking for user engagement.
+This project delivers a playable 9x9 Sudoku puzzle in a web-based format using core web technologies: **HTML**, **CSS**, and **JavaScript**. It emphasizes usability, flexibility, and time tracking for user engagement.
 
 ---
 
@@ -73,7 +73,7 @@ This project is licensed under the **MIT License**. Feel free to fork and custom
 **Nadeem Saba**  
 _*🌱 Learning every day, building with intent, and testing with purpose.*_</br>
 GitHub: [@Nadeemsaba](https://github.com/Nadeemsaba)</br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadeemsaba/)
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadeemsaba/)
 
 
 ---
